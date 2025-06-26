@@ -12,7 +12,7 @@ A web application that fetches random 'useless facts' using the Useless Facts AP
 - HTML5
 - CSS3
 - JavaScript
-- [Useless Facts API](https://uselessfacts.jsph.pl/)
+- [Useless Facts API](https://uselessfacts.jsph.pl/) (No API Key Required)
 
 ## How to Run
 
