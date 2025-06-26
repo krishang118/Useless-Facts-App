@@ -19,5 +19,4 @@ A web application that fetches random 'useless facts' using the Useless Facts AP
 1. Clone this repository on your local machine.
 2. Open the `Useless Facts.html` file in your browser, and you'll be able to fetch the 'useless facts'.
 
-Useless-Facts-App
 A web app that fetches 'useless facts' using the Useless Facts API.
